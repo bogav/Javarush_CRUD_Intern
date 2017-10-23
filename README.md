@@ -3,7 +3,7 @@ Test CRUD (create, read, update, delete) task for applying for Internship autumn
 
 Used technologies:
 1. Maven
-2. Spring MVC
+2. Spring
 3. Hibernate
 4. Tomcat
 5. MySQL (SchemaDB.Table name: test.book; user: root; password: root)
