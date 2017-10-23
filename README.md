@@ -14,3 +14,5 @@ How to start:
 2. Run script "FillInTable.sql" from JavarushCRUD_internship\src\main\webapp\resources folder
 3. Setup Tomcat application server in IntelliJ IDEA as a test server.
 4. Run. The page localhost:8080 will be opened in default brauser.
+
+Screenshot: https://github.com/bogav/Javarush_CRUD_Intern/blob/master/Capture.JPG
